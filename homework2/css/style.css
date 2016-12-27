@@ -1,35 +1,34 @@
 
-
-body{
+body {
 	display: block;
 	width: 500px;
 	font-family: Arial;
 	margin: 0 auto;
 }
-.Line{
+.Line {
 	margin: 0;
 }
-img{
+img {
 	margin: 0 125px;
 }
-h1{
+h1 {
 	
 	font-size: 36px; 
 }
-p{
+p {
 	font-size: 14px;
 }
-ul{
+ul {
 	font-size: 14px;
 }
-.headlines{
+.headlines {
 	font-size: 16px;
 	font-weight: bold;
 }
-.inform{
+.inform {
 	margin-left: 40px;
 }
-a{
+a {
 	color: #3175da;
 	font-weight: bold;
 	font-size: 12px;
